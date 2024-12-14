@@ -1,0 +1,46 @@
+# Python virtual environments
+venv/
+.env/
+.venv/
+conda/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data files (e.g., CSV, Excel, etc.)
+data/
+*.csv
+*.xlsx
+*.json
+*.pickle
+*.h5
+
+# Model files
+models/
+*.h5
+*.pth
+*.pkl
+*.pt
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.bak
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# Conda and pip environments
+.conda/
+environment.yml
+
+# Miscellaneous
+*.swp  # Vim temporary files
